@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[DisplayStyle]
+       [dbo].[ResumeDetails]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[DisplayStyle] (Table)
+       [dbo].[ResumeDetails] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_DisplayResume] (Foreign Key)
+       [dbo].[FK_CustomerResume] (Foreign Key)
+     Create
+       [dbo].[FK_DisplayResume] (Foreign Key)
+       [dbo].[FK_CustomerResume] (Foreign Key)

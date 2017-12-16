@@ -1,0 +1,5 @@
+c:\users\pavankumar\documents\visual studio 2017\Projects\PhaniresumeProject\PhaniresumeProject\bin\Debug\PhaniresumeProject.dacpac
+c:\users\pavankumar\documents\visual studio 2017\Projects\PhaniresumeProject\PhaniresumeProject\bin\Debug\PhaniresumeProject.dll
+c:\users\pavankumar\documents\visual studio 2017\Projects\PhaniresumeProject\PhaniresumeProject\bin\Debug\PhaniresumeProject.pdb
+c:\users\pavankumar\documents\visual studio 2017\Projects\PhaniresumeProject\PhaniresumeProject\obj\Debug\PhaniresumeProject.dll
+c:\users\pavankumar\documents\visual studio 2017\Projects\PhaniresumeProject\PhaniresumeProject\obj\Debug\PhaniresumeProject.pdb

@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[ResumeDetails]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [dbo].[FK_CustomerResume] (Foreign Key)
+       [dbo].[FK_DisplayResume] (Foreign Key)
+     Table rebuild
+       [dbo].[ResumeDetails] (Table)
+     Create
+       [dbo].[FK_ResumeDetail_Customer] (Foreign Key)
+       [dbo].[FK_ResumeDetail_Display] (Foreign Key)
+
+** Supporting actions
+
+A project which specifies SQL Server 2016 as the target platform may experience compatibility issues with Microsoft Azure SQL Database v12.
+
